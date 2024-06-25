@@ -1,0 +1,16 @@
+.food{
+    text-align:center;
+}
+
+.t {
+    display: flex;
+    justify-content: center;
+}
+td{
+    padding:5px;
+}
+.last{
+    text-align:center;
+    font-size: 18px;
+    padding:6px;
+}

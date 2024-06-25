@@ -1,0 +1,26 @@
+.image{
+    background-image:url(food.jpg);
+    height:50vh;
+}
+.head{
+    text-align:center;
+    padding:90px;
+    color:black;
+}
+.info{
+    margin-top:10px;
+    text-align:center;
+}
+.b{
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    display:inline-block;
+    text-align:center;
+    width:220px;
+}
+.s{
+    text-align:center;
+    font-size: 18px;
+    padding:6px;
+}

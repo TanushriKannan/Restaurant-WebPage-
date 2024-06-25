@@ -1,0 +1,42 @@
+nav{
+    color:white;
+    background-color:black;
+    height:50px;
+    padding:20px;
+}
+li,ul,h1{
+    display:inline;
+    padding:10px;
+}
+ul{
+   margin-left:65%;
+}
+ul:hover{
+    cursor:pointer;
+}
+.Products{
+    text-align:center;
+}
+.box{
+    margin:20px;
+    margin-top:30px;
+    border-color: black;
+    border-width:3px;
+    border-style:solid;
+    display:inline-block;
+    width:220px;
+}
+.box:hover{
+    color:white;
+    background-color:black;
+}
+.About{
+    text-align:center;
+    margin:10px; 
+}
+.Contact{
+    background-color: black;
+    text-align:center;
+    padding:20px;
+    color:white;
+}
